@@ -22,12 +22,16 @@ Dr Spat also suggested StanfordNLP ([Python](https://github.com/stanfordnlp/stan
 - The [curated list](https://github.com/keon/awesome-nlp) I mentioned with a lot of general stuff about NLP. Maybe it's not that useful for the project.
 
 ### Word2vec
-Puts words into a 3D space (I think it's actually more than 3D); similar words having closer coordinates (vectors). Like "gun" and "firearm" will have close vectors.
+Model of words in a 3D space (I think it's actually more than 3D); similar words having closer coordinates (vectors). Like "gun" and "firearm" will have close vectors. See also: Wordnet (below).
 
 I think it might help if you're looking for mentions of a topic (like guns) and want your program to pick up all words similar enough to "gun" (like firearm or rifle) -  within a certain tolerance level.
 - [Good pictures that explain the word vector concept](https://www.tensorflow.org/tutorials/representation/word2vec#the_skip-gram_model)
 - [Implementation and output example](https://nbviewer.jupyter.org/github/danielfrg/word2vec/blob/master/examples/word2vec.ipynb#Similarity)
 - Github repos: [Python](https://github.com/danielfrg/word2vec), [Java](https://deeplearning4j.org/docs/latest/deeplearning4j-nlp-word2vec)
+
+### Wordnet
+Alternative to Word2vec. Like a thesaurus - can be used to find similar words, like the gun example in Word2vec (above).
+- [Example code](https://nlpforhackers.io/starting-wordnet/)
 
 ### Beautiful Soup
 HTML Parser (web scraper) for Python.

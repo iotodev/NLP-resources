@@ -12,7 +12,7 @@ Dr Spat also suggested StanfordNLP ([Python](https://github.com/stanfordnlp/stan
   - [API Key](https://www.protectedtext.com/ioto) (Password is your ISSP teacher's name)
 - Software Development Kit: [Python SDK](https://github.com/watson-developer-cloud/python-sdk/blob/master/ibm_watson/natural_language_understanding_v1.py), [Java SDK](https://github.com/watson-developer-cloud/java-sdk/tree/master/natural-language-understanding/src)
 #### Other stuff
-https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-analyzing-webpages
+- [Using Watson without a Web Scraper](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-analyzing-webpages)
 
 ### Pandas
 Pandas is a Python library that can make [data frames](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm) from data.

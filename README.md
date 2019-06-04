@@ -84,7 +84,7 @@ Some of the ideas that Dr Spat has sent me:
 - [Choropleth map examples](https://towardsdatascience.com/the-power-of-visualization-in-data-science-1995d56e4208) - how the "political forecast" might be presented, showing the geographical spread of ideas over time
 - [DAZN's design](https://drive.google.com/file/d/1vIoa1_C-kesKjiAx-MULkwHaIwa_cEky/view) - Dr Spat mentioned this during the first meeting, just as an example of how sports networks present statistics, and how we might take cues from them.
 - [IBM's Tennis Analytics](https://www.ibmbigdatahub.com/tag/605) - IBM is really good at presenting stats/analytics; they do it for pro tennis.
-- [Tethne](http://diging.github.io/tethne/api/tutorial.mallet.html#semantic-graph) - maybe? This looks intense
+- [Tethne](http://diging.github.io/tethne/api/tutorial.mallet.html#semantic-graph) - an idea for one way to visualize what is discussed most frequently
 - [Reuters Graphics](https://graphics.reuters.com/USA-ELECTION-FUNDRAISING/010091H1268/index.html) - I love Reuters graphics
 
 ### Contacts

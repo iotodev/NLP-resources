@@ -55,6 +55,11 @@ Python library for interacting with maps (drawing the maps, reading the maps, co
 - Here's their [GitHub repo](https://github.com/geopandas/geopandas)
 - But [the notes from this class](http://darribas.org/gds15) are way more helpful; there are [coding examples](http://darribas.org/gds15/content/labs/lab_03.html) in the labs.
 
+### Pillow (PIL fork)
+Python library I used for image processing.
+
+- [Pasting & Merging Images](https://pillow.readthedocs.io/en/3.3.x/handbook/tutorial.html#cutting-pasting-and-merging-images) - I thought this was most helpful
+
 ### Graphics
 I think you guys have a lot of freedom here, just trying to come up with graphics that get people interested in politics.
 
@@ -78,6 +83,7 @@ Some of the ideas that Dr Spat has sent me:
 - [DAZN's design](https://drive.google.com/file/d/1vIoa1_C-kesKjiAx-MULkwHaIwa_cEky/view) - Dr Spat mentioned this during the first meeting, just as an example of how sports networks present statistics, and how we might take cues from them.
 - [IBM's Tennis Analytics](https://www.ibmbigdatahub.com/tag/605) - IBM is really good at presenting stats/analytics; they do it for pro tennis.
 - [Tethne](http://diging.github.io/tethne/api/tutorial.mallet.html#semantic-graph) - maybe?
+- [Reuters Graphics](https://graphics.reuters.com/USA-ELECTION-FUNDRAISING/010091H1268/index.html) - gold standard in my opinion, but I love Reuters.
 
 ### Contacts
 What I know about them and how they can help us.

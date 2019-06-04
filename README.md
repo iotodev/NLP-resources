@@ -12,7 +12,9 @@ Dr Spat also suggested StanfordNLP ([Python](https://github.com/stanfordnlp/stan
   - [API Key](https://www.protectedtext.com/ioto) (Password is your ISSP teacher's name)
 - Software Development Kit: [Python SDK](https://github.com/watson-developer-cloud/python-sdk/blob/master/ibm_watson/natural_language_understanding_v1.py), [Java SDK](https://github.com/watson-developer-cloud/java-sdk/tree/master/natural-language-understanding/src)
 #### Other stuff
-- [Using Watson without a Web Scraper](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-analyzing-webpages)
+- [NLU on Webpages](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-analyzing-webpages) - using Watson without a web scraper
+- [Categories](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-categories-hierarchy) - all of the categories recognized by the categories NLP feature; there's a category for "law, govt and politics" with subcategories that might be helpful.
+- The [curated list](https://github.com/keon/awesome-nlp) I mentioned with a lot of general stuff about NLP. Maybe it's not that useful for the project.
 
 ### Pandas
 Pandas is a Python library that can make [data frames](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm) from data.

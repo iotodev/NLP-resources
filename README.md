@@ -76,7 +76,8 @@ I think you'll have a chance to talk more about content during Skype meetings, t
 Here's what Allan, who worked in TV, has said:
 
 > Each one should tell a simple story, not resemble reference material. Think TLDR on steroids.
-> My overarching concern however is that this is primarily just text and numbers, something that all the networks even with their reduced staffing levels are able to produce to varying degrees. What they consistently struggle with and therefore, something to emphasis and attempt to capitalize on are maps and graphs.
+
+> My overarching concern however is that \[our first iteration] is primarily just text and numbers, something that all the networks even with their reduced staffing levels are able to produce to varying degrees. What they consistently struggle with and therefore, something to emphasis and attempt to capitalize on are maps and graphs.
 
 #### Examples
 Some of the ideas that Dr Spat has sent me:

@@ -26,6 +26,7 @@ I hope that makes sense. I attached some code that you can run to see it working
 - [Grouping data](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm)
   - Something I did with that: https://github.com/brodieheywood/Pandas-groupby-demo/blob/master/csv_reader.py
 - [Converting a Dataframe to a csv File](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html) - Part of the Pandas (Python 2) API. Shows optional .to_csv method parameters, like "columns," where you can choose which columns to include in the output csv.
+- [Ignoring blank lines when reading from csv](https://github.com/pandas-dev/pandas/pull/7470) - If you're having this problem, you'll probably need more help than that... I might be able to help, but I only solved my problems by iterating through each row and appending only non-blank rows to a list. Awful solution. I think there was an issue with the csv's encoding?
 
 ### Word2vec
 Puts words into a 3D space (I think it's actually more than 3D), with similar words having closer coordinates (vectors). Like "gun" and "firearm" will have close vectors.

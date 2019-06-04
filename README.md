@@ -31,14 +31,14 @@ I think it might help if you're looking for mentions of a topic (like guns) and 
 HTML Parser (web scraper) for Python.
 
 - Just two links that my Python teacher Chris Thompson gave me, they really helped: [Creating filters to remove irrelevant items](https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/) & [getting text, cleaning it, and putting it into a csv file](https://code.datasciencedojo.com/datasciencedojo/tutorials/blob/master/Web%20Scraping%20with%20Python%20and%20BeautifulSoup/Web%20Scraping%20with%20Python%20and%20Beautiful%20Soup.py)
-- Then my code: [web_scraper.py]() - If you look at the HTML for the webpage it scrapes from, the "paragraph" and "tag" variable definitions make more sense. It might be helpful if you're trying to access elements with a certain ID (or IDs containing a regex) from a specific class.
+- Then my code: [web_scraper.py](https://github.com/brodieheywood/NLP-resources/blob/master/web_scraper.py) - If you look at the HTML for the webpage it scrapes from, the "paragraph" and "tag" variable definitions make more sense. It might be helpful if you're trying to access elements with a certain ID (or IDs containing a regex) from a specific class.
 
 ### Pandas
 Python library that can make [data frames](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm) from data.
 
 The House of Commons gives out all their data as csv files, so I needed a library that could read them into my code. You might not need Pandas for that, but it might be helpful as an alternative to SQL in certain situations. Maybe you could pull from the SQL database, into a Pandas DataFrame, and then do all of your grouping with pandas.groupby (it might be faster? I actually don't know).
 
-I hope that makes sense. I've attached some code that you can run to see it working [csv_reader.py]().
+I hope that makes sense. I've attached some code that you can run to see it working [csv_reader.py](https://github.com/brodieheywood/NLP-resources/blob/master/csv_reader.py).
 - [Tutorial]() - I can't remember which site I used to learn about Pandas! I'm sorry. It might have been Tutorials Point.
 - [Grouping data](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm) - rearranges data like an SQL view; you can run my program to see the data frame before and after grouping.
 - [Converting a Dataframe to a csv File](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html) - Part of the Pandas (Python 2) API. Shows optional .to_csv method parameters, like "columns," where you can choose which columns to include in the output csv.

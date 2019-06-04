@@ -56,19 +56,23 @@ Python library for interacting with maps (drawing the maps, reading the maps, co
 - But [the notes from this class](http://darribas.org/gds15) are way more helpful; there are [coding examples](http://darribas.org/gds15/content/labs/lab_03.html) in the labs.
 
 ### Graphics
-I think you guys have a lot of freedom here, just trying to come up with graphics that get people interested in politics. Some of our ideas were:
+I think you guys have a lot of freedom here, just trying to come up with graphics that get people interested in politics.
+
+#### Content
+Some of our ideas for Canada were:
 - what is the least mentioned topic from news headlines that week (what are politicians trying to avoid talking about)
 - where was the biggest change of opinion (like, did Alabama's representatives suddenly go from consistently negative sentiment about carbon tax, to positive?)
 - what are the most popular topics, per region
+I think you'll have a chance to talk more about content during Skype meetings, too. Dr Spat is really open to bouncing ideas off of him.
 
+#### Style
 Here's what Allan, who worked in TV, has said:
 
 > Each one should tell a simple story, not resemble reference material. Think TLDR on steroids.
 > My overarching concern however is that this is primarily just text and numbers, something that all the networks even with their reduced staffing levels are able to produce to varying degrees. What they consistently struggle with and therefore, something to emphasis and attempt to capitalize on are maps and graphs.
 
-
-I think you'll talk about it more during the Skype meetings too. 
-Here are some of the ideas that Dr Spat has sent me:
+#### Examples
+Some of the ideas that Dr Spat has sent me:
 
 - [Choropleth map examples](https://towardsdatascience.com/the-power-of-visualization-in-data-science-1995d56e4208) - how the "political forecast" might be presented, showing the geographical spread of ideas over time
 - [DAZN's design](https://drive.google.com/file/d/1vIoa1_C-kesKjiAx-MULkwHaIwa_cEky/view) - Dr Spat mentioned this during the first meeting, just as an example of how sports networks present statistics, and how we might take cues from them.

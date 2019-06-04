@@ -34,3 +34,10 @@ I think it might help if you're looking for mentions of a topic (like guns) and 
 - [Good pictures that explain the concept](https://www.tensorflow.org/tutorials/representation/word2vec#the_skip-gram_model)
 - [Implementation and output example](https://nbviewer.jupyter.org/github/danielfrg/word2vec/blob/master/examples/word2vec.ipynb#Similarity)
 - Github repos: [Python](https://github.com/danielfrg/word2vec), [Java](https://deeplearning4j.org/docs/latest/deeplearning4j-nlp-word2vec)
+
+### Beautiful Soup
+HTML Parser (web scraper)
+- Just two links that my Python teacher Chris Thompson gave me, they really helped:
+  - [1](https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/)
+  - [2](https://code.datasciencedojo.com/datasciencedojo/tutorials/blob/master/Web%20Scraping%20with%20Python%20and%20BeautifulSoup/Web%20Scraping%20with%20Python%20and%20Beautiful%20Soup.py)
+- Then my code: https://github.com/brodieheywood/BeautifulSoup-demo/blob/master/web_scraper.py - If you look at the HTML for the webpage it scrapes from, the "paragraph" and "tag" variable definitions make more sense. It might be helpful if you're trying to access elements with a certain ID (or IDs containing a regex) from a specific class.

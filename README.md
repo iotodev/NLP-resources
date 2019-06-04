@@ -87,7 +87,7 @@ Some of the ideas that Dr Spat has sent me:
 
 ### Contacts
 What I know about them and how they can help us. These were just my notes, I'm going to leave them as-is:
-"""
+```
 ALLAN - worked in tv, semiretired. said, for past elections, a third party group is brought in. The networks are hurting for data and have a small team.
 Jason - ChyronHedgo rep. at direction of allan, don't have to get too close with yet
 Rys - last to work on Goverlytics (municipal! then provincial), Can contact him via email or Slack. Was working on db but not much progress.
@@ -96,4 +96,4 @@ Ching & Eric - Worked on Goverlytics. Created database for MLAs. Can email for h
 Commons - info@parl.gc.ca
 Think tank with good data, can reach out to them through email: https://www.cdhowe.org/intelligence-memos/bill-robson-ottawa-comes-part-way-clean-its-pensions
 Reuters Graphics - dr spat emailed about who they get their data from (maybe we can provide). He may email again to start a conversation about it.
-"""
+```

@@ -16,7 +16,9 @@ Dr Spat also suggested StanfordNLP ([Python](https://github.com/stanfordnlp/stan
 
 ### Pandas
 Pandas is a Python library that can make [data frames](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm) from data.
+
 The House of Commons gives out all their data as csv files, so I needed a library that could read them into my code. You might not need Pandas for that, but it might be helpful as an alternative to SQL in certain situations. Maybe you could pull from the SQL database, into a Pandas DataFrame, and then do all of your grouping with pandas.groupby (it might be faster? I actually don't know).
+
 I hope that makes sense. I attached some code that you can run to see it working.
 - [DataFrame to SQL](https://github.com/connellblackett/pandas-mssql/blob/master/pandas_mssql/__init__.py) - I think this might be helpful for getting a dataframe into an SQL database
 - [Grouping data](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm)
@@ -25,6 +27,7 @@ I hope that makes sense. I attached some code that you can run to see it working
 
 ### Word2vec
 Puts words into a 3D space (I think it's actually more than 3D), with similar words having closer coordinates (vectors). Like "gun" and "firearm" will have close vectors.
+
 I think it might help if you're looking for mentions of a topic (like guns) and want your program to pick up all words similar enough to "gun" (like firearm or rifle) -  within a certain tolerance level.
 - [Good pictures that explain the concept](https://www.tensorflow.org/tutorials/representation/word2vec#the_skip-gram_model)
 - [Implementation and output example](https://nbviewer.jupyter.org/github/danielfrg/word2vec/blob/master/examples/word2vec.ipynb#Similarity)

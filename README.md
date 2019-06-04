@@ -1,6 +1,8 @@
 ## Natural Language Processing
 Here are some of the links that helped me; I hope they're useful. I'll add to these if I find anything else!
 
+These are just the libraries that worked for me, there might be better solutions.
+
 [D-Lab CTAWG at Berkley](https://github.com/dlabctawg) are the people Dr Spat mentioned that are doing something similar to your project. We just found them the other day.
 
 ### IBM Watson

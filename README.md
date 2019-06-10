@@ -67,7 +67,17 @@ Python library I used for image processing. PIL was for Python 2 (but I used it 
 - [Pasting & Merging Images](https://pillow.readthedocs.io/en/3.3.x/handbook/tutorial.html#cutting-pasting-and-merging-images) - I thought this was most helpful from their documentation
 
 ### Graphics
-I think you guys have a lot of freedom here, we've just been trying to come up with graphics that get people interested in politics.
+
+For broadcast graphics, a key issue is dimensions. Everything should be generated 1920 x 1080 pixels even if that’s bigger than the actual content.
+
+JPG vs PNG? I’d say at this stage we should be prepared to generate both.  JPG produces a small file size which is consideration for speed, storage, bandwidth and the like. However it doesn’t support an alpha channel. PNG produces a much larger file size but does support alpha and depending on how stuff gets implemented that could be critical. JPG format does have a mask channel but it has almost zero support on broadcast gear and it’s a simple, binary ON/OFF transition whereas PNG supports the full 256 levels broadcasters are used to.
+
+### Interactive Output Models
+
+IBM Slamtracker https://www.usopen.org/en_US/slamtracker/index.html
+
+Infosys Second Screen https://www.atptour.com/en/scores/2019/410/MS024/second-screen?isLive=False
+
 
 #### Content
 Some of our ideas for Canada were:
@@ -91,6 +101,7 @@ Some of the ideas that Dr Spat has sent me:
 - [IBM's Tennis Analytics](https://www.ibmbigdatahub.com/tag/605) - IBM is really good at presenting stats/analytics; they do it for pro tennis.
 - [Tethne](http://diging.github.io/tethne/api/tutorial.mallet.html#semantic-graph) - an idea for one way to visualize what is discussed most frequently
 - [Reuters Graphics](https://graphics.reuters.com/USA-ELECTION-FUNDRAISING/010091H1268/index.html) - I love Reuters graphics
+- 
 
 ### Contacts
 What I know about the contacts Dr Spat has mentioned and how they can help us. These were just my notes; I'm going to leave them as-is:
